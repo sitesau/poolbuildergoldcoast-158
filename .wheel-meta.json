@@ -1,0 +1,22 @@
+{
+  "wheel_id": 842,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-158",
+  "project": "concrete-pool-builder-gold-coast-seasonal-timing-850076364f88a7",
+  "parent_t1_ref": "poolbuildergoldcoast-010",
+  "node_role": "buffer",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast seasonal timing",
+  "intended_url": "https://sitesau.github.io/poolbuildergoldcoast-158/",
+  "tier": "T2",
+  "writeback_nonce": "6f3a50816c9981b0",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/concrete-pool-builder-gold-coast-010/",
+      "anchor": "the concrete pool builder gold coast overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
